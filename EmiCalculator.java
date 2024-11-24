@@ -24,5 +24,6 @@ class EmiCalculator {
         emi = (loanAmount * monthlyInterestRate * Math.pow(1 + monthlyInterestRate, tenureInMonths))
                 / (Math.pow(1 + monthlyInterestRate, tenureInMonths) - 1);
         return emi;
+
     }
 }
