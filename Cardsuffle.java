@@ -9,5 +9,6 @@ public class Cardsuffle {
 		 int pickedDeck = (int)(Math.random() * decks.length);
 		 int pickedCard = (int)(Math.random() * cards.length);
 		System.out.println("your card is : " + pickedCard + " and Deck is " + decks[pickedDeck]);
+
 	}
 } 
