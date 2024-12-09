@@ -26,4 +26,5 @@ class EmiCalculator {
         return emi;
 
     }
+
 }
