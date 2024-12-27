@@ -11,8 +11,7 @@ public class Array  {
 			
 			for(int i = 0; i<n; i++) {
 				arr[i] = input.nextLine();
-				//System.out.println(i);
-				
+				//System.out.println(i);	
 			}
 			System.out.println("You have Entered the following string");
 			for(String str : arr) {
