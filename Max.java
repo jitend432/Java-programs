@@ -34,7 +34,8 @@ public class Max {
 				}else{
 				System.out.println("First Max : " + thirdnumber +  " Second  Max : " + secondnumber);
 			}
-		}		
+		}
+		
 		
 	}
 }
