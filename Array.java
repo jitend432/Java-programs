@@ -17,6 +17,7 @@ public class Array  {
 			for(String str : arr) {
 				System.out.print("[" + str +"]");
 			}
+
 		}
 	}
 	
