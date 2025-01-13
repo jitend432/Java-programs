@@ -11,4 +11,5 @@ public class Cardsuffle {
 		System.out.println("your card is : " + pickedCard + " and Deck is " + decks[pickedDeck]);
 
 	}
+
 } 
