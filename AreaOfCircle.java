@@ -8,5 +8,6 @@ public class AreaOfCircle {
 			System.out.println("Area of circle is : " + area);
 
 
+
 	}
 }
