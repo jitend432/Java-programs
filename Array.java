@@ -16,6 +16,7 @@ public class Array  {
 			System.out.println("You have Entered the following string");
 			for(String str : arr) {
 				System.out.print("[" + str +"]");
+
 			}
 
 		}
