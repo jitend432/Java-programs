@@ -16,6 +16,7 @@ public class Arrayreverse {
             arr[j] = t;
             i++;
             j--;
+
         }
     }
 
