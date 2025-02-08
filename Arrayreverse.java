@@ -13,6 +13,7 @@ public class Arrayreverse {
         while(i < j) {
             t = arr[i];
             arr[i] = arr[j];
+
             arr[j] = t;
             i++;
             j--;
