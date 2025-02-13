@@ -10,6 +10,7 @@ public class Cardsuffle {
 		 int pickedCard = (int)(Math.random() * cards.length);
 		System.out.println("your card is : " + pickedCard + " and Deck is " + decks[pickedDeck]);
 
+
 	}
 
 } 
