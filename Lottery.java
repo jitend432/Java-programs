@@ -16,7 +16,7 @@ public class Lottery {
 			System.out.println(" congratulation you won $10000 ");
 			System.out.println(lottery);
 		}else{
-			System.out.println("SORRY YOU LOOSE");
+			System.out.println("sorry you loose");
 			System.out.println("Better luck next time");
 			System.out.println(lottery);
 		}
