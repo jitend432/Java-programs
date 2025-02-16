@@ -11,4 +11,5 @@ public class bigInteger {
 
 		System.out.println("Factorial of " + n + " = " + result);
 	}
+
 }
