@@ -8,8 +8,6 @@
 	public void printName() {
 		System.out.println("My Name is : " + this.name);
 	} 
-	
-	
 }
 public class thisKeyword {
 	public static void main (String[] args) {

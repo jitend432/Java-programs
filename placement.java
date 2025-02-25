@@ -5,9 +5,10 @@ public static void main (String [] args){
 	Scanner input = new Scanner(System.in);
 	System.out.println(" Enter a number");
 	int n = input.nextInt();
+	
 	int marks[] = new int [n];
 	System.out.println("Enter Marks now = ");
-	//int marks = input.nextInt();
+	
 	
 	for(int i = 0; i<n ; i++) {
 		
@@ -18,7 +19,7 @@ public static void main (String [] args){
 		averageMarks+=marks[i];
 	}
 	averageMarks/=n;
-	System.out.println("Average Marks = "+averageMarks );
+	System.out.println("Average Marks = "+averageMarks ); 
 		
 	   }
 	 

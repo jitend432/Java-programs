@@ -12,7 +12,7 @@ public class ExceptionHandling {
 			System.out.println(e.getMessage());
 		}
 		finally{
-			System.out.println("Fuck You");
+			System.out.println(");
 		
 		System.out.println("Very important code need to run");
 		}
