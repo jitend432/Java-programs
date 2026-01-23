@@ -18,6 +18,7 @@ public class Bubblesort {
                 }     
             }
         }
+
         for(int item : arr){
             System.out.print(item + ""); 
         }
