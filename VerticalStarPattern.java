@@ -28,5 +28,7 @@ public class VerticalStarPattern {
             }
             System.out.println();
         }
+
     }
+
 }
