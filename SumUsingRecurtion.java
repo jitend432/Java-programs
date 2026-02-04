@@ -7,6 +7,7 @@ public static int sum (int n) {
               return 1;
      }
              return n+ sum(n-1);
+
       }
 
 }
