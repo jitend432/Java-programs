@@ -6,7 +6,6 @@ public class ShowTime {
 		int totalSeconds = input.nextInt();
 		int minutes = totalSeconds / 60;
 		int seconds = totalSeconds % 60;
-		System.out.println(totalSeconds + " is " + minutes + " minutes and " +seconds+ " seconds ");
-		
+		System.out.println(totalSeconds + " is " + minutes + " minutes and " +seconds+ " seconds ");	
 	}
 }
